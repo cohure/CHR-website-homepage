@@ -23,7 +23,7 @@ h1 {
   border-radius: 0;
   overflow: hidden;
   max-width: 350px;
-  border: 2px solid #41C5ED;
+  border: 4px solid #41C5ED;
 }
 
 .profile-card:hover {
@@ -57,9 +57,10 @@ h1 {
 }
 
 .profile-title {
-  font-size: 0.9rem;
-  color: #555;
-  font-style: italic;
+  color: #3b3b3b;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase !important;
 }
 
 .profile-mail {
@@ -152,8 +153,8 @@ The board of the Computational Humanities Research community consists of the fol
         <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Melvin">
         </div>
         <div class="profile-details">
-          <h2 class="profile-name">Allie Lassche</h2>
-          <p class="profile-title">Social Media & Event Office</p>
+          <h2 class="profile-name">Alie Lassche</h2>
+          <p class="profile-title">Social Media & Event Officer</p>
           <p class="profile-mail">alie@computational-humanities-research.org</p>
           <p class="profile-bio">Postdoctoral researcher at Center for Humanities Computing, Aarhus University, with a PhD in history from Leiden University. Her research interests center around the use of computational methods to study how information travels in (peripheral areas of) an early-modern society.</p>
           <a href="https://pure.au.dk/portal/en/persons/a.w.lassche%40cas.au.dk" class="profile-link">Read More</a>
