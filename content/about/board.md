@@ -18,6 +18,7 @@ h1 {
     padding-bottom: 20px;
     max-width: calc(3 * 350px); /* Max 3 columns */
 }
+
 .profile-card {
   background-color: white;
   border-radius: 0;
@@ -42,12 +43,13 @@ h1 {
   display: block;
   margin: 0 auto; /* Center the image */
   /* Make BW: https://www.w3schools.com/howto/howto_css_image_bw.asp */
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
 }
 
 .profile-details {
   padding: 1rem;
+  font-size: 0.8rem;
 }
 
 .profile-name {
@@ -60,24 +62,31 @@ h1 {
   color: #3b3b3b;
   font-size: 0.8rem;
   font-weight: 700;
-  text-transform: uppercase !important;
+  text-transform: uppercase;
 }
 
-.profile-mail {
-  font-size: 0.85rem;
+/* Modified profile-mail and profile-link to use icons */
+.profile-mail, .profile-link {
+  display: inline-block;
+  margin-right: 6px;
+  margin-top: 0.5rem;
   color: #666;
+  transition: color 0.2s ease;
 }
+
+.profile-mail:hover, .profile-link:hover {
+  color: #41C5ED;
+}
+
+.profile-mail svg, .profile-link svg {
+  width: 20px;
+  height: 20px;
+}
+
 .profile-bio {
   font-size: 0.9rem;
   line-height: 1.2;
-}
-
-.profile-link {
-  display: inline-block;
-  font-size: 0.85rem;
-  color: #1a1a1a;
-  text-decoration: underline;
-  text-underline-offset: 2px;
+  margin-top: 0.8rem;
 }
 
 /* Responsive Fixes */
@@ -118,7 +127,7 @@ h1 {
 }
 </style>
 
-The board of the Computational Humanities Research community consists of the following members:
+The board of the Computational Humanities Research community consists of:
     <div class="grid">
       <!-- profile 1 -->
       <div class="profile-card">
@@ -128,9 +137,20 @@ The board of the Computational Humanities Research community consists of the fol
         <div class="profile-details">
           <h2 class="profile-name">Melvin Wevers</h2>
           <p class="profile-title">President</p>
-          <p class="profile-mail">melvin@computational-humanities-research.org</p>
+          <a href="mailto: melvin@computational-humanities-research.org" title="Email" class="profile-mail">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
+            <path d="M22 7l-10 7L2 7"></path>
+          </svg>
+          </a>
+           <a href="http://www.melvinwevers.nl" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
+        </svg>
+          </a>
           <p class="profile-bio">Computational Historian working at the University of Amsterdam. Interested in temporality, scaling, multimodality, and the role of computational modeling in historical research.</p>
-          <a href="http://www.melvinwevers.nl/" class="profile-link">Read More</a>
         </div>
       </div>
       <!-- profile 2 -->
@@ -141,23 +161,44 @@ The board of the Computational Humanities Research community consists of the fol
         <div class="profile-details">
           <h2 class="profile-name">Folgert Karsdorp</h2>
           <p class="profile-title">Vice-President</p>
-          <p class="profile-mail">folgert@computational-humanities-research.org</p>
+                    <a href="mailto: folgert@computational-humanities-research.org" title="Email" class="profile-mail">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
+            <path d="M22 7l-10 7L2 7"></path>
+          </svg>
+          </a>
+           <a href="https://www.karsdorp.io/" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
+        </svg>
+          </a>
           <p class="profile-bio">[insert bio]</p>
-          <a href="[#profile/sarah](https://www.karsdorp.io/)" class="profile-link">Read more</a>
         </div>
       </div>
       <!-- profile 3 -->
-      <!-- profile 2 -->
       <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Melvin">
+        <img class="profile-image" src="/images/about/board/Alie.jpg" alt="Portrait of Alie">
         </div>
         <div class="profile-details">
           <h2 class="profile-name">Alie Lassche</h2>
           <p class="profile-title">Social Media & Event Officer</p>
-          <p class="profile-mail">alie@computational-humanities-research.org</p>
+           <a href="mailto: alie@computational-humanities-research.org" title="Email" class="profile-mail">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
+            <path d="M22 7l-10 7L2 7"></path>
+          </svg>
+          </a>
+           <a href="https://pure.au.dk/portal/en/persons/a.w.lassche%40cas.au.dk" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
+        </svg>
+          </a>
           <p class="profile-bio">Postdoctoral researcher at Center for Humanities Computing, Aarhus University, with a PhD in history from Leiden University. Her research interests center around the use of computational methods to study how information travels in (peripheral areas of) an early-modern society.</p>
-          <a href="https://pure.au.dk/portal/en/persons/a.w.lassche%40cas.au.dk" class="profile-link">Read More</a>
         </div>
       </div>
       <!-- profile 4 -->
@@ -169,9 +210,20 @@ The board of the Computational Humanities Research community consists of the fol
         <div class="profile-details">
           <h2 class="profile-name">Barbara McGillivray</h2>
           <p class="profile-title">Diversity and Inclusion Officer</p>
-          <p class="profile-mail">barbara@computational-humanities-research.org</p>
+            <a href="mailto: barbara@computational-humanities-research.org" title="Email" class="profile-mail">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
+            <path d="M22 7l-10 7L2 7"></path>
+          </svg>
+          </a>
+                <a href="https://www.kcl.ac.uk/people/barbara-mcgillivray" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
+        </svg>
+      </a>
           <p class="profile-bio">Lecturer in Digital Humanities and Cultural Computation at King's College London, with a PhD in computational linguistics from the University of Pisa. Her research interests focus on computational models for language change and the analysis of historical texts.</p>
-          <a href="#profile/sarah" class="profile-link">Read More</a>
         </div>
       </div>
       <!-- profile 5 -->
@@ -182,12 +234,23 @@ The board of the Computational Humanities Research community consists of the fol
         <div class="profile-details">
           <h2 class="profile-name">Kristoffer Nielbo</h2>
           <p class="profile-title">Journal Liaison</p>
-          <p class="profile-mail">kristoffer@computational-humanities-research.org</p>
+            <a href="mailto: kristoffer@computational-humanities-research.org" title="Email" class="profile-mail">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
+            <path d="M22 7l-10 7L2 7"></path>
+          </svg>
+          </a>
+           <a href="https://pure.au.dk/portal/da/persons/kln%40cas.au.dk" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
+        </svg>
+          </a>
           <p class="profile-bio">[insert bio]</p>
-          <a href="https://pure.au.dk/portal/da/persons/kln%40cas.au.dk" class="profile-link">Read More</a>
         </div>
       </div>
-            <!-- profile 6 -->
+            <!-- profile 6 NB !! MAIL:TO AND WEBSITE-->
         <div class="profile-card">
        <div class="profile-image-container">
         <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Melvin">
@@ -195,11 +258,23 @@ The board of the Computational Humanities Research community consists of the fol
         <div class="profile-details">
           <h2 class="profile-name">Vacant</h2>
           <p class="profile-title">Proceedings Officer</p>
-          <p class="profile-mail">vacant@computational-humanities-research.org</p>
+            <a href="" title="Email" class="profile-mail"> 
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
+            <path d="M22 7l-10 7L2 7"></path>
+          </svg>
+          </a>
+           <a href="" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
+        </svg>
+          </a>
           <p class="profile-bio">[insert bio]</p>
         </div>
       </div>
-        <!-- profile 7 -->
+            <!-- profile 6 NB !! MAIL:TO AND WEBSITE-->
         <div class="profile-card">
        <div class="profile-image-container">
         <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Melvin">
@@ -207,7 +282,19 @@ The board of the Computational Humanities Research community consists of the fol
         <div class="profile-details">
           <h2 class="profile-name">Vacant</h2>
           <p class="profile-title">Early Career Representative</p>
-          <p class="profile-mail">vacant@computational-humanities-research.org</p>
+            <a href="" title="Email" class="profile-mail"> 
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
+            <path d="M22 7l-10 7L2 7"></path>
+          </svg>
+          </a>
+           <a href="" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
+        </svg>
+          </a>
           <p class="profile-bio">[insert bio]</p>
         </div>
       </div>
