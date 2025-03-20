@@ -132,7 +132,7 @@ The board of the Computational Humanities Research community consists of:
       <!-- profile 1 -->
       <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Melvin">
+        <img class="profile-image" src="/images/about/board/Melvin.jpg" alt="Portrait of Melvin">
         </div>
         <div class="profile-details">
           <h2 class="profile-name">Melvin Wevers</h2>
@@ -156,7 +156,7 @@ The board of the Computational Humanities Research community consists of:
       <!-- profile 2 -->
       <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Melvin">
+        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Folgert">
         </div>
         <div class="profile-details">
           <h2 class="profile-name">Folgert Karsdorp</h2>
@@ -180,7 +180,7 @@ The board of the Computational Humanities Research community consists of:
       <!-- profile 3 -->
       <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/Alie.jpg" alt="Portrait of Alie">
+        <img class="profile-image" src="/images/about/board/Alie.jpeg" alt="Portrait of Alie">
         </div>
         <div class="profile-details">
           <h2 class="profile-name">Alie Lassche</h2>
@@ -205,7 +205,7 @@ The board of the Computational Humanities Research community consists of:
       <!-- profile 2 -->
       <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/Barbara.jpg" alt="Portrait of Melvin">
+        <img class="profile-image" src="/images/about/board/Barbara.jpg" alt="Portrait of Barbara">
         </div>
         <div class="profile-details">
           <h2 class="profile-name">Barbara McGillivray</h2>
@@ -229,7 +229,7 @@ The board of the Computational Humanities Research community consists of:
       <!-- profile 5 -->
       <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Melvin">
+        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Kristoffer">
         </div>
         <div class="profile-details">
           <h2 class="profile-name">Kristoffer Nielbo</h2>
@@ -253,18 +253,18 @@ The board of the Computational Humanities Research community consists of:
             <!-- profile 6 NB !! MAIL:TO AND WEBSITE-->
         <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Melvin">
+        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Lucy">
         </div>
         <div class="profile-details">
-          <h2 class="profile-name">Vacant</h2>
+          <h2 class="profile-name">Lucy Li </h2>
           <p class="profile-title">Proceedings Officer</p>
-            <a href="" title="Email" class="profile-mail"> 
+            <a href="mailto: lucy@computational-humanities-research.org" title="Email" class="profile-mail"> 
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
             <path d="M22 7l-10 7L2 7"></path>
           </svg>
           </a>
-           <a href="" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+           <a href="https://lucy3.github.io/" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <circle cx="12" cy="12" r="10"></circle>
           <line x1="2" y1="12" x2="22" y2="12"></line>
@@ -274,28 +274,28 @@ The board of the Computational Humanities Research community consists of:
           <p class="profile-bio">[insert bio]</p>
         </div>
       </div>
-            <!-- profile 6 NB !! MAIL:TO AND WEBSITE-->
+            <!-- profile 7 NB !! MAIL:TO AND WEBSITE-->
         <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Melvin">
+        <img class="profile-image" src="/images/about/board/Judith.jpg" alt="Portrait of Judith">
         </div>
         <div class="profile-details">
-          <h2 class="profile-name">Vacant</h2>
+          <h2 class="profile-name">Judith Brottrager</h2>
           <p class="profile-title">Early Career Representative</p>
-            <a href="" title="Email" class="profile-mail"> 
+            <a href="mailto: judith@computational-humanities-research.org" title="Email" class="profile-mail"> 
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
             <path d="M22 7l-10 7L2 7"></path>
           </svg>
           </a>
-           <a href="" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+           <a href="#https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/index.en.jsp" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <circle cx="12" cy="12" r="10"></circle>
           <line x1="2" y1="12" x2="22" y2="12"></line>
           <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
         </svg>
           </a>
-          <p class="profile-bio">[insert bio]</p>
+          <p class="profile-bio">Research assistant at the Technical University of Darmstadt, completing her PhD in computational literary studies. Her research focuses on canonisation processes, quantitative literary history, and comparative computational approaches to literature.</p>
         </div>
       </div>
       </div>
