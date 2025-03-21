@@ -1,7 +1,7 @@
 baseURL = "http://computational-humanities-research/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Society of Computational Humanities Research"
+title = "Computational Humanities Research"
 theme = "chr"
 publishDir = "docs"
 
@@ -12,46 +12,34 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
-     identifier = "cfp"
-     name = "CfP"
-     url = "/cfp"
-     weight = -2000
-
-   [[menu.main]]
-     identifier = "news"
-     name = "News"
-     url = "/news"
-     weight = -1850
-
-   # [[menu.main]]
-     # identifier = "venue"
-     # name = "Venue"
-     # url = "/venue"
-     # weight = -1750
-
-  # [[menu.main]]
-     # identifier = "programme"
-     # name = "Programme"
-     # url = "/programme"
-     # weight = -1500
-    
-  [[menu.main]]
       identifier = "about"
       name = "About"
       url = "/about"
+      weight = -2000
+
+   [[menu.main]]
+      identifier = "news"
+      name = "News"
+      url = "/news"
+      weight = -1850
+
+   [[menu.main]]
+      identifier = "Confeence"
+      name = "Conference"
+      url = "/conference"
+      weight = -1750
+
+  [[menu.main]]
+     identifier = "journal"
+     name = "Journal"
+     url = "/journal"
+     weight = -1500
+    
+  [[menu.main]]
+      identifier = "Board"
+      name = "Board"
+      url = "/Board"
       weight = -1000
-
-   # [[menu.main]]
-     # identifier = "CHR2025"
-     # name = "CHR2025"
-     # url = "/hosting"
-     # weight = -500
-
-    # [[menu.main]]
-      # identifier = "journal"
-      # name = "Journal" 
-      # url = "/journal"
-      # weight = -100 
 
 [markup.goldmark.renderer]
 unsafe = true

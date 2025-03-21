@@ -89,19 +89,17 @@ Computational Humanities Research (CHR) is an international and
 interdisciplinary community that supports researchers with an interest in computational
 approaches to the humanities. 
 
-Our latest news:
-
 <div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
-    <a href="/cfp" class="banner" aria-label="View Call for Papers">
-        <h2>Call for Papers</h2>
+    <a href="/news" class="banner" aria-label="View News">
+        <h2>NEWS</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/people" class="banner" aria-label="View People">
-        <h2>People</h2>
+    <a href="/about" class="banner" aria-label="View About">
+        <h2>About</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
