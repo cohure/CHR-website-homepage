@@ -48,6 +48,16 @@ title: "News"
 
 <div class="news">
     <div class="new">
+        <a href="/news/new_board_members"><img src="/images/news/CHR announcements.001.jpeg" alt="Announcement board members"></a>
+        <div class="content">
+            <h3>New CHR board members</h3>
+            <p>
+We recently welcomed two new members to the Computational Humanities Research (CHR) board. ...
+            </p>
+            <a class="link-button" href="/news/new_board_members" aria-label="Press to read about new CHR board members">Read More</a>
+        </div>
+    </div>
+    <div class="new">
         <a href="/news/chr2025-in-luxembourg"><img src="/images/news/chr2025-luxembourg.jpg" alt="Foto of buildings in Luxembourg, covered in snow"></a>
         <div class="content">
             <h3>CHR 2025 in Luxembourg</h3>
