@@ -1,7 +1,7 @@
 baseURL = "http://computational-humanities-research/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Society of Computational Humanities Research"
+title = "Computational Humanities Research"
 theme = "chr"
 publishDir = "docs"
 
