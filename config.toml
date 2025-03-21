@@ -11,34 +11,34 @@ publishDir = "docs"
 
 [menu]
 
-  [[menu.main]]
-      identifier = "about"
-      name = "About"
-      url = "/about"
-      weight = -2000
-
    [[menu.main]]
       identifier = "news"
       name = "News"
       url = "/news"
-      weight = -1850
+      weight = -2000
 
    [[menu.main]]
-      identifier = "Confeence"
+      identifier = "Conference"
       name = "Conference"
       url = "/conference"
-      weight = -1750
+      weight = -1850
 
   [[menu.main]]
      identifier = "journal"
      name = "Journal"
      url = "/journal"
-     weight = -1500
+     weight = -1750
     
   [[menu.main]]
       identifier = "Board"
       name = "Board"
       url = "/Board"
+      weight = -1500
+
+  [[menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about"
       weight = -1000
 
 [markup.goldmark.renderer]

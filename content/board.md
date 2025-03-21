@@ -56,6 +56,7 @@ h1 {
   font-size: 1.3rem;
   font-weight: bold;
   margin-bottom: 0.25rem;
+  margin-top: 0.6rem; /* decrease space between name and portrait */
 }
 
 .profile-title {
@@ -84,7 +85,7 @@ h1 {
 }
 
 .profile-bio {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   line-height: 1.2;
   margin-top: 0.8rem;
 }
@@ -156,7 +157,7 @@ The board of the Computational Humanities Research community consists of:
       <!-- profile 2 -->
       <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Folgert">
+        <img class="profile-image" src="/images/about/board/Folgert.jpeg" alt="Portrait of Folgert">
         </div>
         <div class="profile-details">
           <h2 class="profile-name">Folgert Karsdorp</h2>
@@ -174,7 +175,7 @@ The board of the Computational Humanities Research community consists of:
           <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
         </svg>
           </a>
-          <p class="profile-bio">[insert bio]</p>
+          <p class="profile-bio">Senior Researcher and head of the Oral Culture research group at the Meertens Institute, Amsterdam. He likes to use computational models from fields such as Machine Learning, Cultural Evolution, and Ecology to study cultural change and to quantify cultural diversity.</p> <!-- INSERT BIO -->
         </div>
       </div>
       <!-- profile 3 -->
@@ -198,7 +199,7 @@ The board of the Computational Humanities Research community consists of:
           <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
         </svg>
           </a>
-          <p class="profile-bio">Postdoctoral researcher at Center for Humanities Computing, Aarhus University, with a PhD in history from Leiden University. Her research interests center around the use of computational methods to study how information travels in (peripheral areas of) an early-modern society.</p>
+          <p class="profile-bio">Postdoctoral researcher at Center for Humanities Computing, Aarhus University, with a PhD in history from Leiden University. Her research interests center around the use of computational methods to study how information travels in an early-modern society.</p>
         </div>
       </div>
       <!-- profile 4 -->
@@ -247,13 +248,13 @@ The board of the Computational Humanities Research community consists of:
           <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
         </svg>
           </a>
-          <p class="profile-bio">[insert bio]</p>
+          <p class="profile-bio"></p> <!-- INSERT BIO -->
         </div>
       </div>
-            <!-- profile 6 NB !! MAIL:TO AND WEBSITE-->
+            <!-- profile -->
         <div class="profile-card">
        <div class="profile-image-container">
-        <img class="profile-image" src="/images/about/board/place_holder.png" alt="Portrait of Lucy">
+        <img class="profile-image" src="/images/about/board/Lucy.jpg" alt="Portrait of Lucy">
         </div>
         <div class="profile-details">
           <h2 class="profile-name">Lucy Li </h2>
@@ -271,7 +272,7 @@ The board of the Computational Humanities Research community consists of:
           <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path>
         </svg>
           </a>
-          <p class="profile-bio">[insert bio]</p>
+          <p class="profile-bio">PhD student at the University of California Berkeley's School of Information. Her research focuses on natural language processing of social and cultural data.</p> 
         </div>
       </div>
             <!-- profile 7 NB !! MAIL:TO AND WEBSITE-->
@@ -288,7 +289,7 @@ The board of the Computational Humanities Research community consists of:
             <path d="M22 7l-10 7L2 7"></path>
           </svg>
           </a>
-           <a href="#https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/index.en.jsp" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
+           <a href="https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/index.en.jsp" target="_blank" rel="noopener noreferrer" title="Website" class="profile-link">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <circle cx="12" cy="12" r="10"></circle>
           <line x1="2" y1="12" x2="22" y2="12"></line>
