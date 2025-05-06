@@ -51,7 +51,7 @@ title: Conference
 </style>
 
 <p>Every year, CHR organizes a conference. In 2025, this conference will take place at the <a href="https://www.c2dh.uni.lu/">Luxembourg Centre for Contemporary and Digital History (C²DH)</a> at the <a href="https://www.uni.lu/en/">University of Luxembourg</a> from 9 to 12 December 2025.</p>
-<p>Find all information on the <a href="#">2025 conference website</a>.</p>
+<p>Find all information on the <a href="https://2025.computational-humanities-research.org/">2025 conference website</a>.</p>
 
 
 <div class="space" style="padding-top:0.5%;"></div>
