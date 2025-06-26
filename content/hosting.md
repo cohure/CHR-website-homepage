@@ -1,65 +1,85 @@
 ---
-title: "Call for Bids to Host CHR2025"
+title: "Call for Bids to Host CHR2026"
 date: 2019-12-15T11:12:28+01:00
-draft: true
+draft: false
 ---
 
-The board of the Computational Humanities Society hereby invites proposals to
-host the annual CHR conference in December 2025. Some of the proposals will also
-be considered for CHR in 2026 and beyond. The number of (in-person) attendees to
-a CHR conference is likely to fall in the range of 150-250. 
+**Deadline: November 10, 2025**
 
-Deadline: November 10, 2024. We will announce the next conference’s location
-during CHR2024 in Aarhus in December 2024. Please send formal proposals or any
-questions by email to info@computational-humanities-research.org. 
+The board of the Computational Humanities Society invites proposals to host the annual CHR conference in December 2026. Selected proposals may also be considered for CHR in 2027 and beyond. We expect 150-250 in-person attendees.
 
-### Proposal format
-Draft proposals should include information on the following:
+The conference location will be announced during CHR2025. Please send formal proposals or questions to board@computational-humanities-research.org.
 
-1. Estimates of the anticipated number of registrants
-2. Location
-    - accessibility;
-    - conference venue, e.g., university, hotel or convention center;
-    - accommodation;
-    - dining options;
-    - social event venue;
-    - capability to host the registrants predicted
+## Proposal Requirements
 
-3. Proposed dates
-    - We aim for a three-day conference, preceded by one day for workshops.
-    - Religious and local national holidays should be avoided, as much as possible.
-    - Please list available conference weeks at the proposed venue in December,
-    sorted in descending order of preference. 
-    
-4. Meeting venues
-    - Rooms and capacities for plenary and parallel sessions, tutorials, workshops,
-    posters, exhibits, demos, small meetings, and registration. 
-    - Please provide a listing of available potential room spaces for plenary
-    sessions (e.g. 200+ people), breakout sessions (e.g. 50+ people) and
-    workshop/tutorial spaces of a wide variety of sizes. 
-    
-5. Detailed plan for organizing a hybrid conference
-6. High-speed, all-ports-open, easy-to-use internet access
-7. AV equipment
-8. Catering, including breaks, receptions, poster sessions
-    - Please provide sample prices of different kinds of coffee/refreshment breaks
-9. Local organization team
-    - chair/co-chair, committee, PCO, volunteer labor, registration handling;
-    - description of any experience the team has had in organizing academic
-    conferences, including the number of participants at those conferences 
+### 1. Attendee Projections
+Provide estimates of anticipated registrants based on venue capacity and local context.
 
-10. Local sponsorship
-    - Physical disability access (i.e., mobility access)
+### 2. Location Details
+**Venue Information:**
+- Conference facility (university, hotel, or convention center)
+- Physical accessibility features
+- Accommodation options and capacity
+- Dining facilities and nearby restaurants
+- Social event venues
+- Transportation accessibility
 
-11. Social event
-    - Provide a list of possible locations for the mid-conference evening social event.
+### 3. Proposed Dates
+- Four-day event: one workshop day followed by three conference days
+- December 2026 dates, avoiding religious and national holidays
+- List available weeks in order of preference
 
-12. Estimated costs
-    - Provide a site-specific expenses spreadsheet, specifying approximate total
-    costs for each component of the conference (main conference, workshops,
-    social program, overheads). 
-    - Provide detailed information on additional financial support for PhDs and
-    early career scholars for travel and accommodation costs. 
-    - Please give figures in both local currency and euros, and specify the
-      exchange rate. 
+### 4. Meeting Spaces
+**Required room capacities:**
+- Plenary sessions (200+ people)
+- Parallel sessions (100+ people)  
+- Workshop/tutorial spaces (various sizes)
+- Poster/demo areas
+- Registration and networking spaces
+- Small meeting rooms
 
+### 5. Hybrid Conference Infrastructure
+Detailed plan for seamless online participation, including technical setup and staffing requirements.
+
+### 6. Technical Requirements
+- High-speed internet access (all ports open, user-friendly)
+- AV equipment specifications for all spaces
+- Live streaming capabilities
+
+### 7. Catering Services
+- Coffee breaks and refreshments (include sample pricing)
+- Reception catering options
+- Poster session refreshments
+- Dietary accommodation capabilities
+
+### 8. Organization Team
+- Conference chair/co-chair and local committee
+- Professional conference organizer (PCO) arrangements
+- Volunteer coordination plan
+- Registration management system
+- Team's previous conference organizing experience
+
+### 9. Accessibility and Inclusion
+- Physical disability access throughout venue
+- Accommodation for various accessibility needs
+- Local transportation accessibility
+
+### 10. Social Program
+List potential venues for the mid-conference evening social event with capacity and cost estimates.
+
+### 11. Financial Information
+**Cost Breakdown (in local currency and euros with exchange rate):**
+- Main conference expenses
+- Workshop costs
+- Social program budget
+- Administrative overheads
+- Total estimated costs per participant
+
+**Student Support:**
+- Available financial assistance for PhD students and early career researchers
+- Travel and accommodation support details
+- Local sponsorship opportunities and confirmed commitments
+
+---
+
+*Submit comprehensive proposals addressing all requirements. Incomplete submissions may not be considered.*
