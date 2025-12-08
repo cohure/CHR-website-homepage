@@ -48,7 +48,17 @@ title: "News"
 
 <div class="news">
     <div class="new">
-        <a href="/news/new_board_members"><img src="/images/news/Call_Bids.001.jpeg" alt="Call for Bids CHR2026"></a>
+        <a href="/news/mailing-list"><img src="/images/news/mailing_CHR.001.jpeg" alt="CHR mailing list"></a>
+        <div class="content">
+            <h3>CHR mailing list</h3>
+            <p>
+On behalf of the CHR board, we are pleased to announce that we are setting up a mailing list for the CHR community. ...
+            </p>
+            <a class="link-button" href="/news/mailing-list" aria-label="Press to read the call">Read More</a>
+        </div>
+    </div>
+    <div class="new">
+        <a href="/hosting"><img src="/images/news/Call_Bids.001.jpeg" alt="Call for Bids CHR2026"></a>
         <div class="content">
             <h3>Call for Bids CHR2026</h3>
             <p>
