@@ -2,40 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/code-of-conduct/</loc>
+    <loc>http://computational-humanities-research/code-of-conduct/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>http://computational-humanities-research/archive/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hosting/</loc>
+    <loc>http://computational-humanities-research/hosting/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/community/</loc>
+    <loc>http://computational-humanities-research/community/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://computational-humanities-research/contact/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://computational-humanities-research/</loc>
     <lastmod>2019-12-15T11:12:14+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://computational-humanities-research/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://computational-humanities-research/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/news/chr2025-in-luxembourg/</loc>
+    <loc>http://computational-humanities-research/news/chr2025-in-luxembourg/</loc>
   </url><url>
-    <loc>http://localhost:1313/conference/</loc>
+    <loc>http://computational-humanities-research/news/mailing-list/</loc>
   </url><url>
-    <loc>http://localhost:1313/journal/</loc>
+    <loc>http://computational-humanities-research/conference/</loc>
   </url><url>
-    <loc>http://localhost:1313/news/new_board_members/</loc>
+    <loc>http://computational-humanities-research/journal/</loc>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
+    <loc>http://computational-humanities-research/news/new_board_members/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://computational-humanities-research/news/</loc>
   </url><url>
-    <loc>http://localhost:1313/board/</loc>
+    <loc>http://computational-humanities-research/tags/</loc>
+  </url><url>
+    <loc>http://computational-humanities-research/board/</loc>
   </url>
 </urlset>
