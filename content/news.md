@@ -48,6 +48,16 @@ title: "News"
 
 <div class="news">
     <div class="new">
+        <a href="/news/chr2027-in-manchester"><img src="/images/news/CHR2027.001.jpeg" alt="Announcement of CHR2027"></a>
+        <div class="content">
+            <h3>CHR2027 in Manchester</h3>
+            <p>
+The 7th edition of the Computational Humanities Research (CHR) conference will take place at the Center for Digital Humanities, Cultures and Media at the University of ...
+            </p>
+            <a class="link-button" href="/news/chr2027-in-manchester" aria-label="Press to read about CHR2027 in Manchester">Read More</a>
+        </div>
+    </div>
+    <div class="new">
         <a href="/news/mailing-list"><img src="/images/news/mailing_CHR.001.jpeg" alt="CHR mailing list"></a>
         <div class="content">
             <h3>CHR mailing list</h3>

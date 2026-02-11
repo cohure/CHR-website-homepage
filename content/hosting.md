@@ -1,7 +1,7 @@
 ---
 title: "Call for Bids to Host CHR2026"
 date: 2019-12-15T11:12:28+01:00
-draft: false
+draft: true
 ---
 
 **Deadline: November 10, 2025**

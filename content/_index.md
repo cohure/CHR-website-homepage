@@ -104,10 +104,4 @@ approaches to the humanities.
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/hosting" class="banner" aria-label="View Call for Bids">
-        <h2>Call for Bids CHR2026</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
 </div>

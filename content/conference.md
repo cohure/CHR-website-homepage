@@ -50,8 +50,8 @@ title: Conference
     }
 </style>
 
-<p>Every year, CHR organizes a conference. In 2025, this conference will take place at the <a href="https://www.c2dh.uni.lu/">Luxembourg Centre for Contemporary and Digital History (C²DH)</a> at the <a href="https://www.uni.lu/en/">University of Luxembourg</a> from 9 to 12 December 2025.</p>
-<p>Find all information on the <a href="https://2025.computational-humanities-research.org/">2025 conference website</a>.</p>
+<p>Every year, CHR organizes a conference. The next edition will be organised by the <a href="https://www.digital-humanities.manchester.ac.uk">Center for Digital Humanities, Cultures and Media</a> at the University of Manchester</a> from 5 to 8 January 2027.</p>
+<p>Find all information on the <a href="https://2027.computational-humanities-research.org/">2027 conference website</a>.</p>
 
 
 <div class="space" style="padding-top:0.5%;"></div>
@@ -60,6 +60,11 @@ title: Conference
 <table class="conference-table">
     <tbody>
         <tr class="current"> <!-- NOTICE CURRENT CLASS to highlight the conf -->
+            <td><a href="https://2027.computational-humanities-research.org/" class="conf-link">2027</a></td>
+            <td>Manchester, United Kingdom</td>
+            <td class="date-cell">05 - 08 January</td>
+            <!-- <td><a href="https://anthology.ach.org/volumes/vol0003/" class="conf-link">Proceedings</a></td> -->
+        </tr>
             <td><a href="https://2025.computational-humanities-research.org/" class="conf-link">2025</a></td>
             <td>Luxembourg, Luxembourg</td>
             <td class="date-cell">09 - 12 December</td>
