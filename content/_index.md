@@ -98,6 +98,12 @@ approaches to the humanities.
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
+    <a href="/hosting_2027" class="banner" aria-label="View Call for Bids">
+        <h2>Call for Bids</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
     <a href="/about" class="banner" aria-label="View About">
         <h2>About</h2>
         <div class="banner-footer">

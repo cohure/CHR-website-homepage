@@ -48,6 +48,16 @@ title: "News"
 
 <div class="news">
     <div class="new">
+        <a href="/hosting_2027"><img src="/images/news/CHR announcements_2027.jpeg" alt="Call for Bids"></a>
+        <div class="content">
+            <h3>Call for Bids to host CHR</h3>
+            <p>
+The board of the Computational Humanities Society hereby invites proposals to host the annual CHR conference. ...
+            </p>
+            <a class="link-button" href="/hosting_2027" aria-label="Press to read the call">Read More</a>
+        </div>
+    </div>
+    <div class="new">
         <a href="/news/chr2027-in-manchester"><img src="/images/news/CHR2027.001.jpeg" alt="Announcement of CHR2027"></a>
         <div class="content">
             <h3>CHR2027 in Manchester</h3>
